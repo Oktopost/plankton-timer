@@ -1,0 +1,16 @@
+{
+  "name": "oktopost-plankton-timer",
+  "description": "Better timer",
+  "main": "plankton-timer.js",
+  "license": "MIT",
+  "moduleType": "globals",
+  "homepage": "https://github.com/Oktopost/plankton-timer",
+  "ignore": [
+    "*",
+    "!plankton-timer.js",
+    "!plankton-timer-min.js"
+  ],
+  "authors": [
+    "Alexey Puchkov <alexey@oktopost.com>"
+  ]
+}
