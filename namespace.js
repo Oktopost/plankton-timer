@@ -2,9 +2,13 @@
 
 
 const Namespace = require('oktopost-namespace');
+const Classy = require('oktopost-classy');
 
 
-const container = {};
+const container = {
+	Classy: Classy
+};
+
 const Plankton = new Namespace(container);
 
 
